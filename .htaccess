@@ -1,0 +1,19 @@
+RewriteEngine on
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+
+
+RewriteRule ^memes create.php [NC,L]
+RewriteRule ^memes read.php [NC,L]
+
+
+
+RewriteRule ^memes/([0-9a-zA-Z]+) update.php?id=$1 [NC,L]
+
+RewriteRule ^memes/([0-9a-zA-Z]+) delete.php?id=$1 [NC,L]
+
+#RewriteRule ^memes/([0-9]+) read_single.php?id=$1 [NC,L]
+RewriteRule ^memes/([a-zA-Z0-9_-]+)/?$ read_single.php?id=$1 [L]
+
+RewriteRule ^swagger-ui swagger-ui.html [NC,L]
