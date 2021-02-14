@@ -165,7 +165,7 @@ Import the xmemes.sql file, change the params in the config/Database.php file to
 
 #### View on Docgen
 
-* [URL](http://xmeme-priyal.000webhostapp.com/doc.html)
+* [URL](http://xmeme-priyal.000webhostapp.com/swagger-ui.html)
 * LOCAL_URL - http://localhost/doc.html
 
 ![Task screenshot1](screenshot.png)
