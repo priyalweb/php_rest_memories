@@ -11,6 +11,14 @@ URL - https://xmeme-priyal.000webhostapp.com/
 
 This is a simple PHP REST API from scratch with no framework.
 
+
+#### View on Docgen
+
+* [URL](http://xmeme-priyal.000webhostapp.com/swagger-ui.html)
+* LOCAL_URL - http://localhost/doc.html
+
+![Task screenshot1](screenshot.png)
+
 # Quick Start
 
 Import the xmemes.sql file, change the params in the config/Database.php file to your own
@@ -162,13 +170,6 @@ Import the xmemes.sql file, change the params in the config/Database.php file to
 }
 ```
 
-
-#### View on Docgen
-
-* [URL](http://xmeme-priyal.000webhostapp.com/swagger-ui.html)
-* LOCAL_URL - http://localhost/doc.html
-
-![Task screenshot1](screenshot.png)
 ![Task screenshot2](screenshot2.png)
 
 ### Author
