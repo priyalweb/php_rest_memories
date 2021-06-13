@@ -18,7 +18,8 @@ This is a simple PHP REST API from scratch with no framework.
 * [URL](http://xmeme-priyal.000webhostapp.com/swagger-ui.html)
 * LOCAL_URL - http://localhost/doc.html
 
-![Task screenshot1](screenshot.png)
+![Task screenshot1](
+screencapture-xmeme-priyal-000webhostapp-2021-06-14-01_48_46.png)
 
 # Quick Start
 
@@ -171,7 +172,7 @@ Import the xmemes.sql file, change the params in the config/Database.php file to
 }
 ```
 
-![Task screenshot2](screenshot2.png)
+![Task screenshot2](screencapture-xmeme-priyal-000webhostapp-2021-06-14-01_50_05.png)
 
 ### Author
 
