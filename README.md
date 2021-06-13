@@ -1,9 +1,10 @@
-# XMEME - A Meme Stream application
+# Memories - A picture stream application
+<!-- The App is called "Memories" and it is a simple social media MERN application that allows users to post interesting events that happened in their lives -->
 
-A Meme Stream Page where users can post memes by providing their name, a caption for the meme and the URL for the meme image as input. 
-The page retrieve and display the latest 100 posted Memes (names + meme images + caption).
+A picture stream application is like a open social media app where users can post interesting events that happened in their lives by providing their name, a caption for the pivture and the URL for the picture image as input. 
+The page retrieve and display the latest 100 posted pictures(memories) (names + images + caption).
 
-This is not a meme generator, but a simple app to pull created memes using their URL and listing them on this page with the user’s name and caption.
+This is not a photo generator, but a simple app to pull created photos using their URL and listing them on this page with the user’s name and caption.
 
 URL - https://xmeme-priyal.000webhostapp.com/
 
